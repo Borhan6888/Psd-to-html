@@ -1,0 +1,48 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+ul,ol{
+	list-style: none;
+}
+
+a,a:hover{
+	text-decoration: none;
+}
+
+/*common css end*/
+
+.social-icon a i{
+	width:32px;
+	height:32px;
+	border-radius: 50%;
+	background: #787878;
+	text-align: center;
+	line-height: 32px;
+	color:#fff;
+
+}
+
+.social-icon a i:hover{
+	background: red;
+}
+
+#footer-area{
+	background-color: #050505;
+	color:#fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
